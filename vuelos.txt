@@ -1,0 +1,9 @@
+San Salvador, New York
+New York, Paris
+Paris, Hong Kong
+San Salvador, Cali
+Cali, Paris
+New York, Los Angeles
+San Salvador, Madrid
+Madrid, Guatemala
+Guatemala, San Salvador
